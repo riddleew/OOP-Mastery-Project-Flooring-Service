@@ -1,0 +1,7 @@
+com\sg\flooringmastery\service\stubs\FlooringTaxDaoStubImpl.class
+com\sg\flooringmastery\service\stubs\FlooringProductDaoStubImpl.class
+com\sg\flooringmastery\model\dao\FlooringProductDaoFileImplCrudTest.class
+com\sg\flooringmastery\model\dao\FlooringOrderDaoFileImplTest.class
+com\sg\flooringmastery\model\dao\FlooringTaxDaoFileImplCrudTest.class
+com\sg\flooringmastery\service\FlooringServiceTest.class
+com\sg\flooringmastery\service\stubs\FlooringOrderDaoStubImpl.class

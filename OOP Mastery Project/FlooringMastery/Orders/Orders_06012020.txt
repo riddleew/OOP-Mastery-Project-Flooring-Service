@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ada Lovelace,CA,25.00,Tile,249.00,3.50,4.15,871.50,1033.35,476.21,2381.06
+4,Eric Riddle,KY,6.00,Laminate,127.00,1.75,2.10,222.25,266.70,29.34,518.29
+5,Austyn Hill,WA,9.25,Wood,490.00,5.15,4.75,2523.50,2327.50,448.72,5299.72
+8,Bobby Hill,WA,6.00,Wood,290.00,2.25,2.10,652.50,609.00,75.69,1337.19
